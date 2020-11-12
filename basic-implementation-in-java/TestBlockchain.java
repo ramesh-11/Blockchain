@@ -1,4 +1,3 @@
-package project.blockchain;
 
 public class TestBlockchain {
 	public static void main(String args[]) {
